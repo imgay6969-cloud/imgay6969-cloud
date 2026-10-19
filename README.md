@@ -1,7 +1,7 @@
 # imyourdad12am
 whatever testing
 # 💫 About Me:
-im learning c++ and javascript along with android devloping skills like building custom roms and compling and even making kernels from scratch
+no one cares when they will i will share
 
 
 # 💻 Tech Stack:
