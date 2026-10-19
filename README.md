@@ -6,26 +6,34 @@ no one cares when they will i will share
 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bGt0bTdqOHR6ejFqZnlrcnlzZmdmNHRrbzIxbHF4MGlpZnU5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTn01FiF23A1sK25TG/giphy.gif" width="100%" alt="Naruto vs Sasuke Animated Banner" />
+<<div align="center">
 
-```yaml
-          name: Honey
-   civilian of: India
-    job status: xd student ig
+<h1>🎪 WELCOME TO MY CARNIVAL 🎪</h1>
 
-         level: future master
- role & titles: Owner of Phrova UI
- active quests:
-    - "Building a custom ROM for 'blossom'"
-    - "PhrovaUI"
-    - "ProvaUI"
-> "Building apps and games for Android"
-> "Making anything I like"
+<!-- Paste your GIF image link below -->
+<img src="YOUR_GIF_URL_HERE" width="100%" alt="Header GIF" />
 
-    attributes:
-    - "fast learner"
-    - "Zero coding knowledge"
-    - "smart"
-    - "Clouded by love"
-    - "surrounded"
+<pre>
+                     name: Honey
+              civilian of: India
+               job status: xd student ig
+
+                    level: future master
+            role & titles: Owner of Phrova UI
+            active quests:
+               - "Building a custom ROM for 'blossom'"
+               - "PhrovaUI"
+               - "ProvaUI"
+               - "Building apps and games for Android"
+               - "Making anything I like"
+
+               attributes:
+               - "fast learner"
+               - "Zero coding knowledge"
+               - "smart"
+               - "Clouded by love"
+               - "surrounded"
+</pre>
+
+</div>
 
