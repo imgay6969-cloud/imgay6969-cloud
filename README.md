@@ -2,13 +2,12 @@
 whatever testing
 # 💫 About Me:
 no one cares when they will i will share
-<div align="center">
 
 
 
 <<div align="center">
 
-<h1>🎪 WELCOME TO MY CARNIVAL 🎪</h1>
+
 
 <!-- Paste your GIF image link below -->
 <img src="YOUR_GIF_URL_HERE" width="100%" alt="Header GIF" />
