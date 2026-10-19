@@ -9,11 +9,7 @@ no one cares when they will i will share
 
 
 
-<!-- Paste your GIF image link below -->
-<img src="YOUR_GIF_URL_HERE" width="100%" alt="Header GIF" />
-
-<pre>
-                   name: Honey
+name: Honey
               civilian of: India
                job status: xd student ig
 
@@ -32,7 +28,3 @@ no one cares when they will i will share
                - "smart"
                - "Clouded by love"
                - "surrounded"
-</pre>
-
-</div>
-
