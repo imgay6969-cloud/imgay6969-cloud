@@ -16,7 +16,6 @@ no one cares when they will i will share
             active quests:
                - "Building a custom ROM for 'blossom'"
                - "PhrovaUI"
-               - "ProvaUI"
                - "Building apps and games for Android"
                - "Making anything I like"
 
