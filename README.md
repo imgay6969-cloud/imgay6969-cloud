@@ -5,8 +5,8 @@
 <div align="center">
 
 <pre style="display: inline-block; text-align: center;">
-<font color="#7ee787">Name:</font> Honey
-<font color="#7ee787">Civilian of:</font> India
+<font color="#7ee787">meh:</font> nobody
+<font color="#7ee787">civilian of:</font> Earth
 <font color="#7ee787">job status:</font> xd student ig
 
 <font color="#7ee787">level:</font> future master
