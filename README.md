@@ -2,8 +2,8 @@
   <!-- Typing Japanese text animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7ee787&center=true&vCenter=true&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%82%8F;Konnichiwa" alt="Typing SVG" />
   <br><br>
-  <!-- Drag and drop your new edited GIF into GitHub and replace the link below with the one it generates -->
-  <img src="YOUR_NEW_GIF_LINK.gif" width="60%">
+  <!-- New edited GIF -->
+  <img src="https://github.com/user-attachments/assets/adecfcb0-7793-40e6-a865-ab21dd8dd02b" width="60%">
 </p>
 
 <div align="center">
