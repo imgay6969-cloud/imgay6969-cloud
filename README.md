@@ -4,23 +4,35 @@
 
 <div align="center">
 
-```yaml
-                   name: Honey
-            civilian of: India
-             job status: xd student ig
+<pre style="display: inline-block; text-align: center;">
+<font color="#7ee787">name:</font> Honey
+<font color="#7ee787">civilian of:</font> India
+<font color="#7ee787">job status:</font> xd student ig
 
-                  level: future master
-          role & titles: Owner of Phrova UI
-          active quests: [
-    "Building a custom ROM for 'blossom'",
-                 "PhrovaUI",
-   "Building apps and games for Android",
-          "Making anything I like"
-                        ]
-             attributes: [
-                 "fast learner",
-           "Zero coding knowledge",
-                    "smart",
-              "Clouded by love",
-                 "surrounded"
-                        ]
+<font color="#7ee787">level:</font> future master
+<font color="#7ee787">role & titles:</font> Owner of Phrova UI
+<font color="#7ee787">active quests:</font> [
+"Building a custom ROM for 'blossom'",
+"PhrovaUI",
+"Building apps and games for Android",
+"Making anything I like"
+]
+<font color="#7ee787">attributes:</font> [
+"fast learner",
+"Zero coding knowledge",
+"smart",
+"Clouded by love",
+"surrounded"
+]
+</pre>
+
+<br><br>
+
+<a href="[https://t.me/YOUR_TELEGRAM_USERNAME](https://t.me/YOUR_TELEGRAM_USERNAME)">
+  <img src="[https://img.shields.io/badge/telegram-red?style=flat&logo=telegram&logoColor=white](https://img.shields.io/badge/telegram-red?style=flat&logo=telegram&logoColor=white)" alt="telegram">
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="[https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)" alt="email">
+</a>
+
+</div>
