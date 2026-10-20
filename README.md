@@ -1,6 +1,4 @@
 <div align="center">
-
-# # imyourdad12am
 welcome to my profile ]]]]]]]]]
 
 ## 💫 About Me:
