@@ -7,7 +7,7 @@
 <pre style="display: inline-block; text-align: center;">
 <font color="#7ee787">Name:</font> Honey
 <font color="#7ee787">Civilian of:</font> India
-<font color="#7ee787">Job status:</font> xd student ig
+<font color="#7ee787">job status:</font> xd student ig
 
 <font color="#7ee787">level:</font> future master
 <font color="#7ee787">role & titles:</font> Owner of Phrova UI
@@ -28,11 +28,8 @@
 
 <br><br>
 
-<a href="[https://t.me/YOUR_TELEGRAM_USERNAME](https://t.me/YOUR_TELEGRAM_USERNAME)">
-  <img src="[https://img.shields.io/badge/telegram-red?style=flat&logo=telegram&logoColor=white](https://img.shields.io/badge/telegram-red?style=flat&logo=telegram&logoColor=white)" alt="telegram">
-</a>
 <a href="mailto:cake-is-n-cake@proton.me">
-  <img src="[https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)" alt="email">
+  <img src="https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white" alt="email">
 </a>
 
 </div>
