@@ -1,8 +1,8 @@
 <p align="center">
-  <!-- Typing Japanese text animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7ee787&center=true&vCenter=true&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%82%8F;Konnichiwa" alt="Typing SVG" />
+  <!-- Typing text animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7ee787&center=true&vCenter=true&lines=Hello;%E3%83%8F%E3%83%AD%E3%83%BC%E3%80%81%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%8B%E3%83%BC" alt="Typing SVG" />
   <br><br>
-  <!-- New edited GIF -->
+  <!-- Naruto GIF -->
   <img src="https://github.com/user-attachments/assets/adecfcb0-7793-40e6-a865-ab21dd8dd02b" width="60%">
 </p>
 
@@ -11,9 +11,11 @@
 <pre style="display: inline-block; text-align: center;">
 <font color="#7ee787">meh:</font> nobody
 <font color="#7ee787">civilian of:</font> Earth
-<font color="#7ee787">job status:</font> xd student ig
+<font color="#7ee787">job status:</font> student of Pervy Sage & <b>mybstfrnd</b>
 
 <font color="#7ee787">level:</font> future master
+<font size="2"><b>expertise:</b> yapping, sleeping, doomscrolling & 106</font>
+
 <font color="#7ee787">role & titles:</font> Owner of Phrova UI
 <font color="#7ee787">active quests:</font> [
 "Building a custom ROM for 'blossom'",
