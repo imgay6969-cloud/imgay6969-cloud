@@ -11,7 +11,8 @@
 <pre style="display: inline-block; text-align: center;">
 <font color="#7ee787">meh:</font> nobody
 <font color="#7ee787">civilian of:</font> Earth
-<font color="#7ee787">job status:</font> student of Pervy Sage & <b>mybstfrnd</b>
+<font color="#7ee787">job status:</font> xd student ig
+student of Pervy Sage & <b>mybstfrnd</b>
 
 <font color="#7ee787">level:</font> future master
 <font size="2"><b>expertise:</b> yapping, sleeping, doomscrolling & 106</font>
