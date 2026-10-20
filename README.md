@@ -8,32 +8,42 @@
 
 <div align="center">
 
-<pre style="display: inline-block; text-align: center;">
-<font color="#7ee787">meh:</font> nobody
-<font color="#7ee787">civilian of:</font> Earth
+<table style="border: 2px solid #7ee787; border-radius: 12px; background-color: #0d1117; padding: 15px;">
+  <tr>
+    <td>
+      <pre style="display: inline-block; text-align: center; margin: 0;">
+<font color="#7ee787">meh:</font> nobody 🌙
+<font color="#7ee787">civilian of:</font> Earth 🌍
 <font color="#7ee787">job status:</font> xd student ig
-student of Pervy Sage & <b>mybstfrnd</b>
+student of Pervy Sage & <b>mybstfrnd</b> 😘
 
-<font color="#7ee787">level:</font> future master
+<font color="#7ee787">level:</font> future master ⚡
 <font size="2"><b>expertise:</b> yapping, sleeping, doomscrolling & 106</font>
 
-<font color="#7ee787">role & titles:</font> Owner of Phrova UI
+<font color="#7ee787">role & titles:</font> Owner of Phrova UI 👑
 <font color="#7ee787">active quests:</font> [
-"Building a custom ROM for 'blossom'",
+"Building a custom ROM for 'blossom' 🌸",
 "PhrovaUI",
-"Building apps and games for Android",
-"Making anything I like"
+"Building apps and games for Android 🎮",
+"Making anything I like ✨"
 ]
 <font color="#7ee787">attributes:</font> [
-"fast learner",
-"Ctrl+C, Ctrl+V specialist",
-"smart",
-"Clouded by love",
-"surrounded"
+"fast learner 🚀",
+"Ctrl+C, Ctrl+V specialist 💻",
+"smart 🧠",
+"Clouded by love 💕",
+"surrounded 🌟"
 ]
-</pre>
+      </pre>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<p style="color: #7ee787; font-family: monospace; margin-top: 15px;">
+  🌿 <i>"Energy flows where attention goes—keep shining!"</i> 🌿
+</p>
+
+<br>
 
 <!-- Badges Section -->
 <img src="https://img.shields.io/badge/NEVER-GIVE%20%E2%98%9D%EF%B8%8F-7ee787?style=flat&labelColor=333333" alt="Never Give Up">
