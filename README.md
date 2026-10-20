@@ -26,7 +26,7 @@ student of Pervy Sage & <b>mybstfrnd</b>
 ]
 <font color="#7ee787">attributes:</font> [
 "fast learner",
-"Zero coding knowledge",
+"Ctrl+C, Ctrl+V specialist",
 "smart",
 "Clouded by love",
 "surrounded"
@@ -35,6 +35,8 @@ student of Pervy Sage & <b>mybstfrnd</b>
 
 <br><br>
 
+<!-- Badges Section -->
+<img src="https://img.shields.io/badge/NEVER-GIVE%20%E2%98%9D%EF%B8%8F-7ee787?style=flat&labelColor=333333" alt="Never Give Up">
 <a href="mailto:cake-is-n-cake@proton.me">
   <img src="https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white" alt="email">
 </a>
